@@ -3,7 +3,7 @@ Prior to the release of C1Pro, when tethered, you could click on Apple Command +
 
 I have created an Apple Script for C1Pro 20 that will allow you to use a single keyboard command.
 
-First, in C1Pro you will need to setup the edit keyboard shortcut for "Start/Stop Camera Autofucus" and "Capture". In this case I designated "."  fo auto-focus and "⌤", but you can use any characters. If you choose to use different characters than "." and "⌤", reflect that in the line script. Open The Scripts folder inside C1Pro, add the script and Update Scripts Menu. You should now see the script "Focus_Shoot" in the menu.
+First, in C1Pro you will need to setup the edit keyboard shortcut for "Start/Stop Camera Autofucus" and "Capture". In this case I designated "." for auto-focus, but you can use any character. If you choose to use a different character than ".", reflect that in the line script. Open The Scripts folder inside C1Pro, add the script and Update Scripts Menu. You should now see the script "Focus_Shoot" in the menu.
 
 Next open System Preferences and select Keyboard. Inside Keyboard pick the Shortcuts tab. Select App Shortcuts from the list on the left, and add an app shortcut for Capture One 20 by clicking on the + button. The shortcut is matched to a "Menu Title" where different menu levels are indicated by -> without spaces. The path should look like the following:
 
