@@ -12,4 +12,4 @@ For the "Keyboard Shortcut", I used F19. I used F19. Note: the only single keyst
 
 
 
-Another option is to use Keyboard Maestro with my script which will allow you to use any SINGLE key instead of Apple's Keyboard Shortcuts that require a key combination or only a Function key. I know some studios like to use the "Enter" key" all the way to the right on a full-size keyboard. Here is the KM macro w/ the script embedded (Focus Shoot.kmmacros). Remember, in C1Pro you will need to set up the edit keyboard shortcut for "Start/Stop Camera Autofocus". In this case I designated the period "."
+Another option is to use Keyboard Maestro with my script which will allow you to use any SINGLE key instead of Apple's Keyboard Shortcuts that require a key combination or only a Function key. I know some studios like to use the "Enter" key" which is all the way to the right on a full-size keyboard. Here is the KM macro w/ the script embedded (Focus Shoot.kmmacros). Remember, in C1Pro you will need to set up the edit keyboard shortcut for "Start/Stop Camera Autofocus". In this case I designated the period "."
